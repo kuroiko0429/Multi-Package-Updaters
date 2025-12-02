@@ -27,10 +27,9 @@ This repository contains the following scripts:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Multi-Package-Updaters.git
+    git clone https://github.com/kuroiko0429/Multi-Package-Updaters.git
     cd Multi-Package-Updaters
     ```
-    *Note: Replace `YOUR_USERNAME` with your actual GitHub username or the repository owner's username if forking.*
 
 2.  **Make scripts executable:**
     ```bash
